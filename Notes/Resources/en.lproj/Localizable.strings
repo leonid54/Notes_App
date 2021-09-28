@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Leonid on 27.09.2021.
+  
+*/
+
+"NOTE_VIEW_CONTROLLER_SAVE_BUTTON" = "Save";
+"NOTE_TABLE_VIEW_TITLE" = "Notes";
+"NOTE_VIEW_CONTROLLER_TITLE" = "Note";
+"FIRST_LOAD_NEW_NOTE_TITLE" = "New Note";
+"FIRST_LOAD_NEW_NOTE_DESC" = "Here is";
